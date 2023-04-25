@@ -150,7 +150,7 @@ img {
     border-radius: 5px;
 }
 
-chat-container{
+.chat-container{
     position: fixed;
     bottom: 0;
     right: 0;
